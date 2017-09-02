@@ -42,5 +42,7 @@ _____
 ## What needs to be done:
 The frames are still not optimized to comfortably read and understand the material. </br>
 As well as, there are few issues I have faced, described in the notebook itself. </br>
+Also, It would be nice to have mutliple templates and figuire out how to create bubbles with text, </br>
+instead of just using subtitles.
 ## Credits:
 Thanks to mwarsh for telling me about Syrians on IRC Anime channel, who can not watch anime because of the bandwith. 
