@@ -25,7 +25,7 @@ pip install pandas
 ```
 then:
 ```bash
-git clone https://github.com/Denisolt/DTO.git
+git clone https://github.com/Denisolt/Manga_Gen.git
 cd Manga_Gen-master
 jupyter notebook
 ```
