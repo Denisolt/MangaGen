@@ -45,4 +45,4 @@ As well as, there are few issues I have faced, described in the notebook itself.
 Also, It would be nice to have mutliple templates and figuire out how to create bubbles with text, </br>
 instead of just using subtitles.
 ## Credits:
-Thanks to mwarsh for telling me about Syrians on IRC Anime channel, who can not watch anime because of the bandwith. 
+Thanks to warsh for telling me about Syrians щт Freenode #anime channel, who can not watch anime because of the bandwith. 
